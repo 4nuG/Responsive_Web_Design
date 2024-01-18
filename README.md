@@ -12,5 +12,5 @@ This repository contains HTML and CSS code developed as part of the Responsive W
 To view the pages, follow these steps:
 
 1. Navigate to any folder in the repository.
-2. Locate the index.html page and copy.
-3. Paste the HTML page in [htmlpreview.github.io](https://htmlpreview.github.io/?) .
+2. Locate the index.html page and copy the URL.
+3. Paste the URL of that HTML page into [htmlpreview.github.io](https://htmlpreview.github.io/?) .
